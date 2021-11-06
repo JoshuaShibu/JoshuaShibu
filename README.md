@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaShibu web developer from India.
-- 👀 I’m interested in Web Dev and Data Science.
-- 🌱 I’m currently learning Data Science and Web Development
+- 👀 I’m interested in Web Dev and Coffee.
+- 🌱 I’m currently learning Data Science and FullStack-Web Development
 - 💞️ I’m looking to collaborate on https://github.com/JoshuaShibu/
 - 📫 How to reach me @joshuashibu8@gmail.com
 
